@@ -1,2 +1,2 @@
-# hello-world2
-Try to follow the guidance
+# hello-world
+To try guidance
